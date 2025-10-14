@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Tree
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
