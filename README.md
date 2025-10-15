@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [3194-find-words-containing-character](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
