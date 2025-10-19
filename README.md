@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
