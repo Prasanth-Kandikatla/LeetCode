@@ -61,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0190-reverse-bits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
