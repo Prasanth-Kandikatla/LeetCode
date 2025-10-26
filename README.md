@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [3194-find-words-containing-character](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/3194-find-words-containing-character) |
 ## String
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
