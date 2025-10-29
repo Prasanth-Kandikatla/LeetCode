@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0190-reverse-bits) |
 ## Recursion
 |  |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
