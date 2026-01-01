@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0547-number-of-provinces) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0547-number-of-provinces) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0053-maximum-subarray) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
