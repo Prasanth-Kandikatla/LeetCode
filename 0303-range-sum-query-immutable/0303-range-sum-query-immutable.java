@@ -1,18 +1,35 @@
+// class NumArray {
+//     int[] arr;
+//     public NumArray(int[] nums) {
+//         arr = nums;
+//     }
+    
+//     public int sumRange(int left, int right) {
+//         int sum = 0;
+//         for (int i = left; i<= right; i++) {
+//             sum += arr[i];
+//         }
+
+//         return sum;
+//     }
+// }
+
+
+// Prefix Sum Approach
 class NumArray {
-    int[] arr;
+    int[] sum;
     public NumArray(int[] nums) {
-        arr = nums;
+        sum = new int[nums.length+1];
+        for (int i = 0; i<nums.length; i++) {
+            sum[i+1] = sum[i] + nums[i];
+        }
     }
     
     public int sumRange(int left, int right) {
-        int sum = 0;
-        for (int i = left; i<= right; i++) {
-            sum += arr[i];
-        }
-
-        return sum;
+       return sum[right + 1] - sum[left];
     }
 }
+
 
 /**
  * Your NumArray object will be instantiated and called as such:
