@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [3194-find-words-containing-character](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Database
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/1791-find-center-of-star-graph) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
