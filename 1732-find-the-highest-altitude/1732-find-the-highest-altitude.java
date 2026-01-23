@@ -10,7 +10,7 @@ class Solution {
             }
         }
 
-        if(max <= 0) return 0;
+        if(max < 0) return 0;
         return max;
     }
 }
