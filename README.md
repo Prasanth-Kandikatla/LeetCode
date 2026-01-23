@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0724-find-pivot-index) |
 | [3194-find-words-containing-character](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0724-find-pivot-index) |
 ## Database
 |  |
 | ------- |
