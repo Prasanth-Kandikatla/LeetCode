@@ -12,12 +12,14 @@ class Solution {
                 if(sum[i] == sum[nums.length] - sum[i]) {
                     count += 2;
                 } 
-                if(sum[i] == sum[nums.length] - sum[i] + 1) {
-                    count++;
-                }
-                if(sum[i] + 1 == sum[nums.length] - sum[i]) {
-                    count++;
-                }
+
+                if(Math.abs(sum[nums.length] - 2*sum[i]) == 1) count++;
+                // if(sum[i] == sum[nums.length] - sum[i] + 1) {
+                //     count++;
+                // }
+                // if(sum[i] + 1 == sum[nums.length] - sum[i]) {
+                //     count++;
+                // }
             } 
         }
 
