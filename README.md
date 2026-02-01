@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [3194-find-words-containing-character](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Database
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
