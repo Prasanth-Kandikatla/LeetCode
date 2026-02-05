@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
 | ------- |
