@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3028-ant-on-the-boundary](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3194-find-words-containing-character](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0283-move-zeroes) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0268-missing-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/0268-missing-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Prasanth-Kandikatla/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Queue
 |  |
 | ------- |
